@@ -19,6 +19,6 @@ public class Player {
 
     @Override
     public String toString() {
-        return this.name + "(" + deads + " | " + this.shots + ")";
+        return this.name + " (" + deads + " | " + this.shots + ")";
     }
 }
